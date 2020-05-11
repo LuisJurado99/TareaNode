@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LuisJurado99/npm_init/issues"
   },
-  "homepage": "https://github.com/LuisJurado99/npm_init#readme"
+  "homepage": "https://github.com/LuisJurado99/npm_init#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
